@@ -1,1 +1,1 @@
-These are the Screenshots of my app MINDHARMONY - An AI powered mental health companion android app using jetpack compose and kotlin
+These are the Screenshots of my works using jetpack compose and kotlin (ANDROID DEVELOPMENT)
